@@ -24,6 +24,7 @@ Denna film beskriver hur programmet bör fungera.
 + Du ska examineras muntligt veckan 14.
 ## Inlämning
 Din Visual Studio solution mapp lämnas in på Fronter som en komprimerad fil.
+
 # Betygsättning.
 
 ## Betyget E
