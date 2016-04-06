@@ -1,8 +1,7 @@
-# CryptoApp
+# Praktisk examinationsuppgift - Cryptoapp.
 [![CryptoApp](http://img.youtube.com/vi/GQgU4wsVtbw/0.jpg)](https://www.youtube.com/watch?edit=vd&v=GQgU4wsVtbw "Bild")
 [Klicka här för att se demo:n](https://www.youtube.com/watch?edit=vd&v=GQgU4wsVtbw)
 
-# Praktisk examinationsuppgift - Cryptoapp.
 I denna uppgift ska du skriva ett program som krypterar och dekrypterar text filer.  Programmet är konsolbaserad och du ska kunna anropa den när ni öppnar ett kommandofönster.
 Denna film beskriver hur programmet bör fungera.
 
@@ -15,6 +14,7 @@ Denna film beskriver hur programmet bör fungera.
 + Ditt program ska kunna köras från var som helst på datorn när du öppnar konsolen d.v.s. du ska inte behöver navigera till en särskilt mapp för att kunna köra programmet.
 + Hur texten krypteras och dekrypteras är valfritt. Förslagsvis använder du metoden som förslås I boken där du ökar och minskar ASCII koden med en viss summa.
 + Programmet ska kunna snyggt hantera fall där du försöker kryptera en fil som inte finns, nåt krånglar med filsystemet etc – alltså programmet får inte “kraschar.”
+
 ## Tips:
 + Ett sätt att kunna köra programmet från konsolen, utan att behöva vara i samma mapp som .exe filen, är att lägga till sökvägen till PATH
 + Du behöver hantera input parametrar.
